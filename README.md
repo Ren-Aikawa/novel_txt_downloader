@@ -14,6 +14,11 @@
 
 <br>
 
+##  下载后小说文件格式
+TXT
+
+<br>
+
 ##  目前对应网站
 - 52书库（www.52shuku.net）
 - 镇魂小说（www.zhenhunxiaoshuo.com）
